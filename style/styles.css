@@ -1,0 +1,32 @@
+body {
+    background-color: #F5F5F5;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #333;
+}
+
+.card {
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+.btn-primary {
+    background-color: #008080;
+    border-color: #008080;
+}
+
+.btn-warning {
+    background-color: #FF7F50;
+    border-color: #FF7F50;
+}
+
+.btn-info {
+    background-color: #333;
+    border-color: #333;
+}
+
+.btn-danger {
+    background-color: #FF0000;
+}
